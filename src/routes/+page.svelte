@@ -1,5 +1,5 @@
 <script>
-    import Greet from "$lib/Greet.svelte";
+    import Calculator from "$lib/Calculator.svelte";
 </script>
 
-<Greet/>
+<Calculator/>
